@@ -1,6 +1,31 @@
 Changelog
 ==========
 
+Version 6.9.7 *(2020-07-06)*
+----------------------------
+
+ * Fixed some weekly view related glitches
+ * Added some stability and translation improvements
+
+Version 6.9.6 *(2020-06-12)*
+----------------------------
+
+ * Fixing a glitch with zoomed out weekly view
+
+Version 6.9.5 *(2020-06-10)*
+----------------------------
+
+ * Allow changing the amount of days shown at the weekly view
+ * Show a Save / Discard prompt at leaving an edited event (by fnrngg)
+ * Some translation and stability improvements
+
+Version 6.9.4 *(2020-05-25)*
+----------------------------
+
+ * Allow landscape orientation on any device
+ * Use the nicer new app icon on lower Android versions
+ * Some UI, stability and translation improvements
+
 Version 6.9.3 *(2020-05-05)*
 ----------------------------
 
